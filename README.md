@@ -1,8 +1,8 @@
 ## Bem vindo ao perfil
 Meu nome é Marcella, e conheça um pouco sobre mim:
--Estou cursando o ensino médio;
--Atualmente trabalhando como babá;
--Futuramente pretendo cursar psicologia
+- Estou cursando o ensino médio;
+- Atualmente trabalhando como babá;
+- Futuramente pretendo cursar psicologia
 
 <!--
 **MarcellaCastro/marcellacastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
